@@ -57,7 +57,7 @@ this is ___my___ readme file. <!--სქელი კურსივი-->
 
 ![სურათი](img/logo.png)
 
-![სურათი](img/uploaded.bmp)
+![სურათი (ალტერნატ. ტექსტი)](img/uploaded.bmp)
 
 [![რობოკოპი](img/roseandrobocop.png)](https://en.wikipedia.org/wiki/RoboCop_(character))
 
